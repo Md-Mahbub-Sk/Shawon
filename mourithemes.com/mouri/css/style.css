@@ -318,7 +318,7 @@ img {
 
 .banner-area{
     background-image: url(../images/home/ehsan.JPG);
-    
+    background-position: center;
     -webkit-background-size:cover;
     background-size:cover;
     position: relative;
